@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\Estudio\Universidad\Semestre 6\Scripting\Semana 5\Scripting - Taller I - Nicolás Escobar Espinosa - 000366591\bin\Debug\Scripting - Taller I - Nicolás Escobar Espinosa - 000366591.exe.config
+C:\Users\Usuario\Desktop\Estudio\Universidad\Semestre 6\Scripting\Semana 5\Scripting - Taller I - Nicolás Escobar Espinosa - 000366591\bin\Debug\Scripting - Taller I - Nicolás Escobar Espinosa - 000366591.exe
+C:\Users\Usuario\Desktop\Estudio\Universidad\Semestre 6\Scripting\Semana 5\Scripting - Taller I - Nicolás Escobar Espinosa - 000366591\bin\Debug\Scripting - Taller I - Nicolás Escobar Espinosa - 000366591.pdb
+C:\Users\Usuario\Desktop\Estudio\Universidad\Semestre 6\Scripting\Semana 5\Scripting - Taller I - Nicolás Escobar Espinosa - 000366591\obj\Debug\Scripting - Taller I - Nicolás Escobar Espinosa - 000366591.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Estudio\Universidad\Semestre 6\Scripting\Semana 5\Scripting - Taller I - Nicolás Escobar Espinosa - 000366591\obj\Debug\Scripting - Taller I - Nicolás Escobar Espinosa - 000366591.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Estudio\Universidad\Semestre 6\Scripting\Semana 5\Scripting - Taller I - Nicolás Escobar Espinosa - 000366591\obj\Debug\Scripting - Taller I - Nicolás Escobar Espinosa - 000366591.exe
+C:\Users\Usuario\Desktop\Estudio\Universidad\Semestre 6\Scripting\Semana 5\Scripting - Taller I - Nicolás Escobar Espinosa - 000366591\obj\Debug\Scripting - Taller I - Nicolás Escobar Espinosa - 000366591.pdb
