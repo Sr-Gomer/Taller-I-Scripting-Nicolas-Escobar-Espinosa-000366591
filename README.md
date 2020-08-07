@@ -4,6 +4,7 @@ Taller número 1 de scripting 2020 en el segundo semestre académico
 Hola, en este documento se van a enunciar los componenetes que utilicé para la construcción y diseño del encargo.
 
 Clase Skill
+
 La clase skill posee lo ya pedido dentro de su enunciado de diseño, es abstracta por ende no se debe referir a ella si no a sus hijos.
   SuportSkill: Clase hija de skill que hereda todos los datos de su padre, pero no utilzia el generador random para su power, dado que ella no requiere poder para utilizarse, por   cuestiones del ejercico se crearon tres dentro del GameManager, Growth(atackUp), Barrier(defenseUp), Sticky Web(speedDown).
   AttackSkill: Clase hija de skill que hereda todos los datos de su padre, pero utiliza un generador random para su poder para inflinjir daño a su adversario, por cuestiones del     ejercicio se crearon dos dentro del GameManager, Afinity Beam, Afinity Punch.
